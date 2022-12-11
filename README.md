@@ -1,0 +1,1 @@
+# Patika.dev_Inner_Join_SQL
